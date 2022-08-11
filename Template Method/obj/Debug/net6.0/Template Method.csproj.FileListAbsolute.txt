@@ -1,0 +1,15 @@
+D:\с#\Template Method\obj\Debug\net6.0\Template Method.csproj.AssemblyReference.cache
+D:\с#\Template Method\obj\Debug\net6.0\Template Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\с#\Template Method\obj\Debug\net6.0\Template Method.AssemblyInfoInputs.cache
+D:\с#\Template Method\obj\Debug\net6.0\Template Method.AssemblyInfo.cs
+D:\с#\Template Method\obj\Debug\net6.0\Template Method.csproj.CoreCompileInputs.cache
+D:\с#\Template Method\bin\Debug\net6.0\Template Method.exe
+D:\с#\Template Method\bin\Debug\net6.0\Template Method.deps.json
+D:\с#\Template Method\bin\Debug\net6.0\Template Method.runtimeconfig.json
+D:\с#\Template Method\bin\Debug\net6.0\Template Method.dll
+D:\с#\Template Method\bin\Debug\net6.0\Template Method.pdb
+D:\с#\Template Method\obj\Debug\net6.0\Template Method.dll
+D:\с#\Template Method\obj\Debug\net6.0\refint\Template Method.dll
+D:\с#\Template Method\obj\Debug\net6.0\Template Method.pdb
+D:\с#\Template Method\obj\Debug\net6.0\Template Method.genruntimeconfig.cache
+D:\с#\Template Method\obj\Debug\net6.0\ref\Template Method.dll
