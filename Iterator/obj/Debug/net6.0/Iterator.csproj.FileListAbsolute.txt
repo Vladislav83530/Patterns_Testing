@@ -1,0 +1,15 @@
+D:\GitHub\Patterns_Testing\Iterator\obj\Debug\net6.0\Iterator.csproj.AssemblyReference.cache
+D:\GitHub\Patterns_Testing\Iterator\obj\Debug\net6.0\Iterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Patterns_Testing\Iterator\obj\Debug\net6.0\Iterator.AssemblyInfoInputs.cache
+D:\GitHub\Patterns_Testing\Iterator\obj\Debug\net6.0\Iterator.AssemblyInfo.cs
+D:\GitHub\Patterns_Testing\Iterator\obj\Debug\net6.0\Iterator.csproj.CoreCompileInputs.cache
+D:\GitHub\Patterns_Testing\Iterator\bin\Debug\net6.0\Iterator.exe
+D:\GitHub\Patterns_Testing\Iterator\bin\Debug\net6.0\Iterator.deps.json
+D:\GitHub\Patterns_Testing\Iterator\bin\Debug\net6.0\Iterator.runtimeconfig.json
+D:\GitHub\Patterns_Testing\Iterator\bin\Debug\net6.0\Iterator.dll
+D:\GitHub\Patterns_Testing\Iterator\bin\Debug\net6.0\Iterator.pdb
+D:\GitHub\Patterns_Testing\Iterator\obj\Debug\net6.0\Iterator.dll
+D:\GitHub\Patterns_Testing\Iterator\obj\Debug\net6.0\refint\Iterator.dll
+D:\GitHub\Patterns_Testing\Iterator\obj\Debug\net6.0\Iterator.pdb
+D:\GitHub\Patterns_Testing\Iterator\obj\Debug\net6.0\Iterator.genruntimeconfig.cache
+D:\GitHub\Patterns_Testing\Iterator\obj\Debug\net6.0\ref\Iterator.dll
