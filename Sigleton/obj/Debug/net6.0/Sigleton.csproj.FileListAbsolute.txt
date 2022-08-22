@@ -1,0 +1,15 @@
+D:\GitHub\Patterns_Testing\Sigleton\bin\Debug\net6.0\Sigleton.exe
+D:\GitHub\Patterns_Testing\Sigleton\bin\Debug\net6.0\Sigleton.deps.json
+D:\GitHub\Patterns_Testing\Sigleton\bin\Debug\net6.0\Sigleton.runtimeconfig.json
+D:\GitHub\Patterns_Testing\Sigleton\bin\Debug\net6.0\Sigleton.dll
+D:\GitHub\Patterns_Testing\Sigleton\bin\Debug\net6.0\Sigleton.pdb
+D:\GitHub\Patterns_Testing\Sigleton\obj\Debug\net6.0\Sigleton.csproj.AssemblyReference.cache
+D:\GitHub\Patterns_Testing\Sigleton\obj\Debug\net6.0\Sigleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Patterns_Testing\Sigleton\obj\Debug\net6.0\Sigleton.AssemblyInfoInputs.cache
+D:\GitHub\Patterns_Testing\Sigleton\obj\Debug\net6.0\Sigleton.AssemblyInfo.cs
+D:\GitHub\Patterns_Testing\Sigleton\obj\Debug\net6.0\Sigleton.csproj.CoreCompileInputs.cache
+D:\GitHub\Patterns_Testing\Sigleton\obj\Debug\net6.0\Sigleton.dll
+D:\GitHub\Patterns_Testing\Sigleton\obj\Debug\net6.0\refint\Sigleton.dll
+D:\GitHub\Patterns_Testing\Sigleton\obj\Debug\net6.0\Sigleton.pdb
+D:\GitHub\Patterns_Testing\Sigleton\obj\Debug\net6.0\Sigleton.genruntimeconfig.cache
+D:\GitHub\Patterns_Testing\Sigleton\obj\Debug\net6.0\ref\Sigleton.dll
