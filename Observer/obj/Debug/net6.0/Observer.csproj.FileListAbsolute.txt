@@ -1,0 +1,15 @@
+D:\GitHub\Patterns_Testing\Observer\bin\Debug\net6.0\Observer.exe
+D:\GitHub\Patterns_Testing\Observer\bin\Debug\net6.0\Observer.deps.json
+D:\GitHub\Patterns_Testing\Observer\bin\Debug\net6.0\Observer.runtimeconfig.json
+D:\GitHub\Patterns_Testing\Observer\bin\Debug\net6.0\Observer.dll
+D:\GitHub\Patterns_Testing\Observer\bin\Debug\net6.0\Observer.pdb
+D:\GitHub\Patterns_Testing\Observer\obj\Debug\net6.0\Observer.csproj.AssemblyReference.cache
+D:\GitHub\Patterns_Testing\Observer\obj\Debug\net6.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Patterns_Testing\Observer\obj\Debug\net6.0\Observer.AssemblyInfoInputs.cache
+D:\GitHub\Patterns_Testing\Observer\obj\Debug\net6.0\Observer.AssemblyInfo.cs
+D:\GitHub\Patterns_Testing\Observer\obj\Debug\net6.0\Observer.csproj.CoreCompileInputs.cache
+D:\GitHub\Patterns_Testing\Observer\obj\Debug\net6.0\Observer.dll
+D:\GitHub\Patterns_Testing\Observer\obj\Debug\net6.0\refint\Observer.dll
+D:\GitHub\Patterns_Testing\Observer\obj\Debug\net6.0\Observer.pdb
+D:\GitHub\Patterns_Testing\Observer\obj\Debug\net6.0\Observer.genruntimeconfig.cache
+D:\GitHub\Patterns_Testing\Observer\obj\Debug\net6.0\ref\Observer.dll
